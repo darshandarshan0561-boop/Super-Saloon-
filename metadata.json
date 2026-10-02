@@ -1,0 +1,6 @@
+{
+  "name": "Open Shop Saloon",
+  "description": "World-class salon app with live shop status, owner attendance tracking, visitor logs, service catalog, and Balale 571219 location map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
